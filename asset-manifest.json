@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/styl-karkonoski/static/css/main.2437fb13.chunk.css",
+    "main.js": "/styl-karkonoski/static/js/main.26821ca0.chunk.js",
+    "main.js.map": "/styl-karkonoski/static/js/main.26821ca0.chunk.js.map",
+    "runtime-main.js": "/styl-karkonoski/static/js/runtime-main.a5efbeee.js",
+    "runtime-main.js.map": "/styl-karkonoski/static/js/runtime-main.a5efbeee.js.map",
+    "static/js/2.2f048457.chunk.js": "/styl-karkonoski/static/js/2.2f048457.chunk.js",
+    "static/js/2.2f048457.chunk.js.map": "/styl-karkonoski/static/js/2.2f048457.chunk.js.map",
+    "index.html": "/styl-karkonoski/index.html",
+    "precache-manifest.c2196cf019cc3daebb9639a000068ac2.js": "/styl-karkonoski/precache-manifest.c2196cf019cc3daebb9639a000068ac2.js",
+    "service-worker.js": "/styl-karkonoski/service-worker.js",
+    "static/css/main.2437fb13.chunk.css.map": "/styl-karkonoski/static/css/main.2437fb13.chunk.css.map",
+    "static/js/2.2f048457.chunk.js.LICENSE.txt": "/styl-karkonoski/static/js/2.2f048457.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/styl-karkonoski/static/media/karkonosze.427105a2.jpg",
+    "static/media/tshirt1.png": "/styl-karkonoski/static/media/tshirt1.e3e859f1.png",
+    "static/media/tshirt2.png": "/styl-karkonoski/static/media/tshirt2.b0424b92.png",
+    "static/media/tshirt3.png": "/styl-karkonoski/static/media/tshirt3.14f1c5b4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5efbeee.js",
+    "static/js/2.2f048457.chunk.js",
+    "static/css/main.2437fb13.chunk.css",
+    "static/js/main.26821ca0.chunk.js"
+  ]
+}

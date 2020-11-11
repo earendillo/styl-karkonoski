@@ -1,0 +1,32 @@
+// color pallete
+$darkgreen: #161c10;
+$pinegreen: #37492d;
+$graygreen: #8c9d75;
+$gray: #dbc9ab;
+$warmgray: #c99585;
+$bali-hai-color: #8AA7B4;
+$black-color: #141414;
+$hemlock-color: #696240;
+$pavlova-color: #D7C5A2;
+$casper-color: #ABC7D1;
+$bali-hai-color: #8AA7B4;
+$black-color: #141414;
+$superblack: #010101;
+$darkgreen: #0a110a;
+
+body {
+  margin: 0;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: $darkgreen;
+  background-image: url(./images/karkonosze.jpg);
+  background-position: 50% 100%;
+  background-attachment: fixed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+

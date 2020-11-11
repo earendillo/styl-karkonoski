@@ -1,0 +1,44 @@
+$darkgreen: #161c10;
+$gray: #dbc9ab;
+
+.top-bar {
+  background-color: $darkgreen;
+  color: $gray;
+
+  height: 10vh;
+  width: 100%;
+
+  position: fixed;
+  top: 0;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  font-family: Gabriola;
+  font-size: calc(10px + 2vmin);
+
+  z-index: 10;
+
+  .icons-container {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.5em;
+    padding: 20px;
+    width: 20vw;
+  }
+
+  .title {
+    padding: 20px;
+  }
+
+  @media (min-width: 600px) {
+    .icons-container {
+      display: flex;
+      justify-content: flex-end;
+      font-size: 33px;
+      padding: 20px;
+      width: 20vw;
+    }
+  }
+}

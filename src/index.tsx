@@ -1,11 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import WebFont from 'webfontloader';
 import './index.scss';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { StoreContext } from "storeon/react";
 import { store } from "./stores/appStore";
 
+
+WebFont.load({
+    google: {
+        families: ['Roboto', 'Cabin']
+    }
+})
 
 ReactDOM.render(
   <React.StrictMode>

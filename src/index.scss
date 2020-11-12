@@ -21,8 +21,21 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: $darkgreen;
   background-image: url(./images/karkonosze.jpg);
-  background-position: 50% 100%;
+  background-position: 50% 75%;
   background-attachment: fixed;
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: Roboto,sans-serif;
+  }
+
+  p {
+    font-family: Cabin, sans-serif;
+  }
+
+  a, a:hover, a:active, a:visited {
+    color: $casper-color;
+    text-decoration: none;
+  }
 }
 
 code {

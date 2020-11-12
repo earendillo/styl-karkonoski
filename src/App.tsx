@@ -90,6 +90,38 @@ function App() {
                     </div>
                 </div>
             </div>
+            <div className='shop-items-container'>
+                <div className='shop-item'>
+                    <a href="">
+                        <img src={tshirt1} alt="t-shirt"/>
+                    </a>
+                    <div className='shop-item-details-container'>
+                        <p className='shop-item-name'>T-shirt</p>
+                        <p className='shop-item-description'>Pomarańczowy t-shirt z logo</p>
+                        <p className='shop-item-price'>79 PLN</p>
+                    </div>
+                </div>
+                <div className='shop-item'>
+                    <a href="">
+                        <img src={tshirt2} alt="t-shirt"/>
+                    </a>
+                    <div className='shop-item-details-container'>
+                        <p className='shop-item-name'>T-shirt</p>
+                        <p className='shop-item-description'>Czarny t-shirt z logo</p>
+                        <p className='shop-item-price'>79 PLN</p>
+                    </div>
+                </div>
+                <div className='shop-item'>
+                    <a href="">
+                        <img src={tshirt3} alt="t-shirt"/>
+                    </a>
+                    <div className='shop-item-details-container'>
+                        <p className='shop-item-name'>T-shirt</p>
+                        <p className='shop-item-description'>Zielony t-shirt z logo</p>
+                        <p className='shop-item-price'>79 PLN</p>
+                    </div>
+                </div>
+            </div>
         </main>
         <div className='landing-placeholder'></div>
 

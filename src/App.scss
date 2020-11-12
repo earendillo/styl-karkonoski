@@ -17,12 +17,13 @@ $black: #020202;
   color: $casper-color;
 
   .top-bar {
-    background: linear-gradient(to bottom, $darkblue, 80%, transparent);
-    height: 10vh;
+    background: $darkblue;
     width: 100%;
     position: fixed;
     top: 0;
     left: 0;
+    opacity: 0.9;
+    z-index: 1;
 
     .user-actions {
       display: flex;
@@ -71,9 +72,9 @@ $black: #020202;
   }
 
   .gradient-placeholder {
-    height: 13vh;
+    height: 20vh;
     width: 100%;
-    background: linear-gradient(to bottom, $darkblue, 80%, transparent);
+    background: linear-gradient(to bottom, $darkblue, 90%, transparent);
   }
 
   .main-topic {
@@ -107,7 +108,6 @@ $black: #020202;
       h2 {
         margin: 10px;
         padding: 10px;
-        font-family: "Noto Sans";
         font-size: xx-large;
         font-weight: bolder;
         background: $darkblue;
@@ -124,6 +124,7 @@ $black: #020202;
       width: 50px;
       border-radius: 50%;
       background: $darkblue;
+      opacity: 0.9;
     }
   }
 
@@ -166,11 +167,13 @@ $black: #020202;
     flex-direction: column;
     background: $darkblue;
     opacity: 0.95;
+    margin-top: 10vh;
 
     .shop-header {
       display: flex;
       justify-content: center;
       align-items: center;
+      margin-top: 3vh;
     }
 
     .shop-items-container {

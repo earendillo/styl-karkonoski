@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1fa73b6915791cc5a8dab390fdb6fb06",
+    "revision": "96da948c9f4cee5c06c2e4edc8ff13a4",
     "url": "/styl-karkonoski/index.html"
   },
   {
-    "revision": "17d526ed3e92d08234bb",
-    "url": "/styl-karkonoski/static/css/main.2437fb13.chunk.css"
+    "revision": "d8e5b65e6bbadc6a2b74",
+    "url": "/styl-karkonoski/static/css/main.0e9e8154.chunk.css"
   },
   {
-    "revision": "c3a3b65f84892fc6b97e",
-    "url": "/styl-karkonoski/static/js/2.2f048457.chunk.js"
+    "revision": "a7edc801f1f4c8f94715",
+    "url": "/styl-karkonoski/static/js/2.b9acaabc.chunk.js"
   },
   {
     "revision": "c97fb91e7dd1c7b19ae67fb152a2e6b2",
-    "url": "/styl-karkonoski/static/js/2.2f048457.chunk.js.LICENSE.txt"
+    "url": "/styl-karkonoski/static/js/2.b9acaabc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "17d526ed3e92d08234bb",
-    "url": "/styl-karkonoski/static/js/main.26821ca0.chunk.js"
+    "revision": "d8e5b65e6bbadc6a2b74",
+    "url": "/styl-karkonoski/static/js/main.938457d3.chunk.js"
   },
   {
     "revision": "3767f7971b75e14cfa74",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/styl-karkonoski/precache-manifest.c2196cf019cc3daebb9639a000068ac2.js"
+  "/styl-karkonoski/precache-manifest.8210cb1baaa00d3bef2a33fdb92dc775.js"
 );
 
 self.addEventListener('message', (event) => {

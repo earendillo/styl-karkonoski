@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "96da948c9f4cee5c06c2e4edc8ff13a4",
+    "revision": "529e0ecdb2f422fb1e4594267bc35e4b",
     "url": "/styl-karkonoski/index.html"
   },
   {
-    "revision": "d8e5b65e6bbadc6a2b74",
-    "url": "/styl-karkonoski/static/css/main.0e9e8154.chunk.css"
+    "revision": "b92fccbfd118de136e5d",
+    "url": "/styl-karkonoski/static/css/main.c53d78da.chunk.css"
   },
   {
     "revision": "a7edc801f1f4c8f94715",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/styl-karkonoski/static/js/2.b9acaabc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d8e5b65e6bbadc6a2b74",
-    "url": "/styl-karkonoski/static/js/main.938457d3.chunk.js"
+    "revision": "b92fccbfd118de136e5d",
+    "url": "/styl-karkonoski/static/js/main.554eafcf.chunk.js"
   },
   {
     "revision": "3767f7971b75e14cfa74",

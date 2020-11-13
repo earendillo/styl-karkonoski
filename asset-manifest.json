@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/styl-karkonoski/static/css/main.0e9e8154.chunk.css",
-    "main.js": "/styl-karkonoski/static/js/main.938457d3.chunk.js",
-    "main.js.map": "/styl-karkonoski/static/js/main.938457d3.chunk.js.map",
+    "main.css": "/styl-karkonoski/static/css/main.c53d78da.chunk.css",
+    "main.js": "/styl-karkonoski/static/js/main.554eafcf.chunk.js",
+    "main.js.map": "/styl-karkonoski/static/js/main.554eafcf.chunk.js.map",
     "runtime-main.js": "/styl-karkonoski/static/js/runtime-main.a5efbeee.js",
     "runtime-main.js.map": "/styl-karkonoski/static/js/runtime-main.a5efbeee.js.map",
     "static/js/2.b9acaabc.chunk.js": "/styl-karkonoski/static/js/2.b9acaabc.chunk.js",
     "static/js/2.b9acaabc.chunk.js.map": "/styl-karkonoski/static/js/2.b9acaabc.chunk.js.map",
     "index.html": "/styl-karkonoski/index.html",
-    "precache-manifest.8210cb1baaa00d3bef2a33fdb92dc775.js": "/styl-karkonoski/precache-manifest.8210cb1baaa00d3bef2a33fdb92dc775.js",
+    "precache-manifest.d0304a952a68dd04aa41c4d3eee8dd66.js": "/styl-karkonoski/precache-manifest.d0304a952a68dd04aa41c4d3eee8dd66.js",
     "service-worker.js": "/styl-karkonoski/service-worker.js",
-    "static/css/main.0e9e8154.chunk.css.map": "/styl-karkonoski/static/css/main.0e9e8154.chunk.css.map",
+    "static/css/main.c53d78da.chunk.css.map": "/styl-karkonoski/static/css/main.c53d78da.chunk.css.map",
     "static/js/2.b9acaabc.chunk.js.LICENSE.txt": "/styl-karkonoski/static/js/2.b9acaabc.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/styl-karkonoski/static/media/karkonosze.427105a2.jpg",
     "static/media/tshirt1.png": "/styl-karkonoski/static/media/tshirt1.e3e859f1.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.a5efbeee.js",
     "static/js/2.b9acaabc.chunk.js",
-    "static/css/main.0e9e8154.chunk.css",
-    "static/js/main.938457d3.chunk.js"
+    "static/css/main.c53d78da.chunk.css",
+    "static/js/main.554eafcf.chunk.js"
   ]
 }

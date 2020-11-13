@@ -27,14 +27,19 @@ function App() {
     <div className='App'>
         <header className='top-bar'>
             <div className='menu-container'>
-                <div className='logo-container'>LOGO</div>
+                <div className='logo-container'>STYL KARKONOSKI</div>
                 <nav className='navigation-container'>
-                    <ul className='navigation-list'>
+                    <ul className='navigation-list desktop'>
                         <li>Start</li>
                         <li>O nas</li>
                         <li>Blog</li>
                         <li>Sklep</li>
                         <li>Kontakt</li>
+                    </ul>
+                    <ul className='navigation-list mobile'>
+                        <li className="hamburger">
+                            <i className="fi-xnluxl-three-bars-solid"></i>
+                        </li>
                     </ul>
                 </nav>
             </div>

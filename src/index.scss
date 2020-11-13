@@ -36,6 +36,12 @@ body {
     color: $casper-color;
     text-decoration: none;
   }
+
+  div {
+    &.root-container {
+      overflow-x: hidden;
+    }
+  }
 }
 
 code {

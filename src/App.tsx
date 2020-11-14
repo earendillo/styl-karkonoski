@@ -94,8 +94,6 @@ function App() {
                         <p className='shop-item-price'>79 PLN</p>
                     </div>
                 </div>
-            </div>
-            <div className='shop-items-container'>
                 <div className='shop-item'>
                     <a href="">
                         <img src={tshirt1} alt="t-shirt"/>

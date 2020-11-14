@@ -58,7 +58,7 @@ $black: #020202;
   }
 
   .gradient-placeholder {
-    height: 20vh;
+    height: 10vh;
     width: 100%;
     background: linear-gradient(to bottom, $darkblue, 90%, transparent);
   }
@@ -101,7 +101,6 @@ $black: #020202;
     }
 
     .see-more {
-      margin-top: 5vh;
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -111,6 +110,8 @@ $black: #020202;
       border-radius: 50%;
       background: $darkblue;
       opacity: 0.9;
+      position: relative;
+      top: 50%;
     }
   }
 
@@ -153,7 +154,7 @@ $black: #020202;
     flex-direction: column;
     background: $darkblue;
     opacity: 0.95;
-    margin-top: 10vh;
+    margin-top: 20vh;
 
     .shop-header {
       display: flex;
@@ -168,15 +169,18 @@ $black: #020202;
       width: 80%;
       display: flex;
       justify-content: space-around;
+      flex-wrap: wrap;
 
       .shop-item {
-        width: 300px;
         height: 400px;
         background: $darkblue;
+        padding: 2%;
+        flex: 1 16%;
 
         .shop-item-details-container {
           p {
             margin: 0;
+            margin-top: auto;
             padding: 0;
           }
         }
@@ -188,9 +192,15 @@ $black: #020202;
     }
   }
 
-  @media (max-width: 480px) {
+  @media (max-width: 768px) {
     .top-bar {
       .menu-container {
+        align-items: center;
+        display: flex;
+        justify-content: space-between;
+        height: 10vh;
+        padding: 0 1rem;
+
         .navigation-container {
           ul {
             &.navigation-list {
@@ -200,9 +210,31 @@ $black: #020202;
 
               &.mobile {
                 display: flex;
+                font-size: xx-large;
               }
             }
           }
+        }
+      }
+    }
+
+    .main-topic {
+      .topic-container {
+        .topic-top {
+          position: inherit;
+        }
+
+        .topic-bottom {
+          position: inherit;
+        }
+      }
+    }
+
+    .content-container {
+      .shop-items-container {
+        .shop-item {
+          height: 280px;
+          flex: 1 21%;
         }
       }
     }
